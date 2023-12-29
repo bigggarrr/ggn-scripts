@@ -1,0 +1,1 @@
+A series of scripts made for GGN. See each directory for a corresponding README.md.
